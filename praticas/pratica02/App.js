@@ -13,18 +13,9 @@ function AppBar(props) {
 
 function App() {
   return (
-    <View style={styles.container}>
+    <View >
       <AppBar titulo="Minha Aplicação React Native" />
-      <View
-        style={{
-          flex: 1,
-          backgroundColor: "#fff",
-
-          
-          justifyContent: "center",
-          alignItems: "center",
-        }}
-      ></View>
+      <View style={styles.container}></View>
     </View>
   );
 }
