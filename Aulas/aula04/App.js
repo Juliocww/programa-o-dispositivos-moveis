@@ -1,7 +1,7 @@
-import RegistrarConta from "./screens/GaleriaFotos";
+import Conversas from "./screens/Conversa";
 
 function App(){
-return <RegistrarConta/>
+return <Conversa/>
 
 }
 
