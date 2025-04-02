@@ -1,7 +1,7 @@
-import Conversas from "./screens/Conversa";
+import ContactScreen from "./screens/ContactScreen";
 
 function App(){
-return <Conversa/>
+return <ContactScreen/>
 
 }
 

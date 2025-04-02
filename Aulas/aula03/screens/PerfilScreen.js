@@ -7,7 +7,7 @@ function PerfilScreen() {
         <View style={styles.photo}></View>
         <View style={styles.perfilData}>
           <Text>Julinho Delas</Text>
-          <Text>COMEDOR DE CASADAS  </Text>
+          <Text>COMEDOR DE CASADAS </Text>
         </View>
       </View>
       <View>
